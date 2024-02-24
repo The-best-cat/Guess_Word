@@ -224,7 +224,7 @@
             }
             else
             {
-                Func.Print("It's \"" + word + "\".\n\n");
+                Func.Print("It's \"" + word + "\".\n\n", 30);
                 Func.Pause();
             }
         }
